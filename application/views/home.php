@@ -231,7 +231,7 @@
     <a href="https://www.google.com/maps/place/Meraki/@51.506343,-0.13629,17z/data=!3m1!4b1!4m2!3m1!1s0x487604d0c518106b:0xdd8a98ce57c42f50?hl=en" target="_blank">
       <img src="static/images/find_london_m.png" />
     </a>
-    <a href="tel:+44 2076 648623" target="_blank">
+    <a href="tel:+44 2076 648623" target="_blank" style="margin-top:9px;margin-bottom:9px">
       <img src="static/images/find_london_phone_m.png" />
     </a>
     <a href="mailto:app@merakijewel.com" target="_blank" class="app-mail">
